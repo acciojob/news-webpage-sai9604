@@ -11,7 +11,20 @@ header{
 }
 .left, .right{
 	width:25%;
+	background-color:grey;
+	text-align:center;
+	gap:10px;
 }
 .middle{
 	width:50%;
+	background-color:grey;
+	text-align:center;
+\
+	gap:10px;
+}
+.row{
+	justify-content:space-between;
+}
+img{
+	width:80%;
 }
